@@ -16,7 +16,7 @@
 <!doctype html>
 <html lang="ja">
 	<head>
-		<title>フリーアナウンサーさとうみちこ Official Site</title>
+		<title>フリーアナウンサーさとうみちこ Official WebSite</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<meta name="robots" content="noindex">
